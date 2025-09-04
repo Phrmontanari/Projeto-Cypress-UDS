@@ -27,10 +27,10 @@ npm install cypress@15.1.0 --save-dev
 :+1:
 :thumbsup: Como executar os testes:
 
-Modo Interativo: <br/>
+:point_right: Modo Interativo: <br/>
 npx cypress open 
 
-Modo Headless: <br/>
+:point_right: Modo Headless: <br/>
 npx cypress run --spec cypress/e2e/addProductsToCart/add-oriducts-to-cart.cy.js <br/>
 npx cypress run --spec cypress/e2e/API/RestfulBookerAPI.cy.cy.js <br/>
 npx cypress run --spec cypress/e2e/Checkout/checkout.cy.js <br/>
@@ -38,16 +38,16 @@ npx cypress run --spec cypress/e2e/Login/login-failure.cy.js <br/>
 npx cypress run --spec cypress/e2e/Login/login-success.cy.js <br/>
 
 
-Estratégias de Testes: <br/>
+:point_right: Estratégias de Testes: <br/>
 Seletores centralizados em cypress/support/selectors.js <br/>
 Comandos customizados como loginSuccess, addProductsToCart e checkout foram implementadas em cypress/support/commands.js <br/>
 Cada teste tem seu próprio spec (login.spec.js, addProductsToCart.spec.js, checkout.spec.js)
 
-Estruturas de Pasta: <br/>
+:point_right: Estruturas de Pasta: <br/>
 e2e - Contém arquivos de teste <br/>
 support - Contem seletores customizados e selectors
 
-Limitações devido aos prazos: <br/>
+:point_right: Limitações devido aos prazos: <br/>
 Não foram implementadas bibliotecas como faker para geração de relatórios 
 Relatórios detalhados não foram configurados
 
