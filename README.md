@@ -7,7 +7,7 @@ Este projeto contém testes automatizados de UI utilizando Cypress
 
 - Setup:
 
-Node - v22.15.1
+Node - v22.15.1<br/>
 Cypress - cypress@15.1.0
 
 Instalar o node: 
