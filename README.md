@@ -24,8 +24,7 @@ npm install cypress --save-dev
 Para instalar em uma versão específica: <br/>
 npm install cypress@15.1.0 --save-dev
 
-:+1:
-:thumbsup: Como executar os testes:
+:point_right:Como executar os testes:
 
 :point_right: Modo Interativo: <br/>
 npx cypress open 
