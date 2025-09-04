@@ -1,16 +1,16 @@
 # Projeto de Testes Automatizados Cypress
 
-Este projeto contém testes automatizados de UI utilizando Cypress
+:robot: Este projeto contém testes automatizados de UI utilizando Cypress
 
 
 # Configurações
 
-:robot: Setup:
+:point_right: Setup:
 
 Node - v22.15.1<br/>
 Cypress - cypress@15.1.0
 
-:alien: Passo a passo para configurar o projeto.
+:point_right: Passo a passo para configurar o projeto.
 
 Instalar o node: 
 Node -v
