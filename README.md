@@ -10,6 +10,8 @@ Este projeto contém testes automatizados de UI utilizando Cypress
 Node - v22.15.1<br/>
 Cypress - cypress@15.1.0
 
+:alien: Passo a passo para configurar o projeto.
+
 Instalar o node: 
 Node -v
 
@@ -22,7 +24,8 @@ npm install cypress --save-dev
 Para instalar em uma versão específica: <br/>
 npm install cypress@15.1.0 --save-dev
 
-Como executar os testes:
+:+1:
+:thumbsup: Como executar os testes:
 
 Modo Interativo: <br/>
 npx cypress open 
