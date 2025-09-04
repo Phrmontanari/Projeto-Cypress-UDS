@@ -10,7 +10,7 @@
 Node - v22.15.1<br/>
 Cypress - cypress@15.1.0
 
-:point_right: Passo a passo para configurar o projeto.
+:wink: Passo a passo para configurar o projeto.
 
 Instalar o node: 
 Node -v
