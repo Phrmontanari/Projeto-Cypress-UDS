@@ -47,7 +47,8 @@ e2e - Contém arquivos de teste <br/>
 support - Contem seletores customizados e selectors
 
 :point_right: Limitações devido aos prazos: <br/>
-Não foram implementadas bibliotecas como faker para geração de relatórios 
-Relatórios detalhados não foram configurados
+Não foram implementadas bibliotecas como faker para geração de relatórios <br/>
+Relatórios detalhados não foram configurados <br/>
+Algumas funcionalidas como cy.intercept não foram implementadas
 
 OBS: Usuário e Senha para executar os testes devem ser configurados em um novo arquivo em cypress.env.json
